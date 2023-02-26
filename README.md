@@ -1,5 +1,5 @@
 # Free
-[nostr.sethforprivacy.com](wss://nostr.sethforprivacy.com)
+nostr.sethforprivacy.com (wss://nostr.sethforprivacy.com)
 
 # Paid
 [nostr.portemonero.com](https://nostr.portemonero.com)
