@@ -1,6 +1,8 @@
 # Free
 nostr.sethforprivacy.com (wss://nostr.sethforprivacy.com)
+
 nostr.xmr.sh (wss://nostr.xmr.sh)
+
 n.xmr.se (wss://n.xmr.se)
 
 # Paid
