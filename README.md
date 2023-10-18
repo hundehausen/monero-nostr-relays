@@ -17,4 +17,4 @@ n.xmr.se (wss://n.xmr.se)
 [https://xmr.ithurtswhenip.ee](https://xmr.ithurtswhenip.ee) (wss://xmr.ithurtswhenip.ee)
 
 ## How to self host a paid nostr relay with Monero
-[Nerostr](https://github.org/pluja/nerostr)
+[Nerostr](https://github.com/pluja/nerostr)
