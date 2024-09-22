@@ -13,5 +13,7 @@ nostr.xmr.sh (wss://nostr.xmr.sh)
 
 [https://xmr.ithurtswhenip.ee](https://xmr.ithurtswhenip.ee) (wss://xmr.ithurtswhenip.ee)
 
+[https://relay.mostard.org](https://relay.mostard.org) (wss://relay.mostard.org)
+
 ## How to self host a paid nostr relay with Monero
 [Nerostr](https://github.com/pluja/nerostr)
