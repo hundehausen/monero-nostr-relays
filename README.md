@@ -10,12 +10,6 @@
   </tr>
   <tr>
     <td>Paid</td>
-    <td style="max-width: 120px;word-wrap: break-all"><a href="https://nostr.portemonero.com">nostr.portemonero.com</a></td>
-    <td>wss://nostr.portemonero.com</td>
-    <td style="max-width: 120px;word-wrap: break-all">ws://yhfjs2l3jeph72ddghzvwfcnmtm7w3pduao4wrpucirhyu2s54dxepid.onion</td>
-  </tr>
-  <tr>
-    <td>Paid</td>
     <td style="max-width: 120px;word-wrap: break-all"><a href="https://xmr.usenostr.org">xmr.usenostr.org</a></td>
     <td>wss://xmr.usenostr.org</td>
     <td style="max-width: 120px;word-wrap: break-all"></td>
